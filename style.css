@@ -1,0 +1,5 @@
+#plant-img {
+  width: 200px; /* or whatever size you want */
+  height: auto; /* keeps it proportional */
+  image-rendering: pixelated;
+}
